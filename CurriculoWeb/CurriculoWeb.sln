@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurriculoWeb", "CurriculoWeb\CurriculoWeb.csproj", "{FA22327A-B82A-49C6-9A10-EB14D76985EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurriculoWeb", "CurriculoWeb\CurriculoWeb.csproj", "{FA22327A-B82A-49C6-9A10-EB14D76985EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

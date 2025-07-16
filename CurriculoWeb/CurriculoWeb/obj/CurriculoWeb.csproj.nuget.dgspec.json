@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2023102020050\\source\\repos\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj": {}
+    "C:\\Users\\2023102020050\\Documents\\GitHub\\appweb\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2023102020050\\source\\repos\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj": {
+    "C:\\Users\\2023102020050\\Documents\\GitHub\\appweb\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2023102020050\\source\\repos\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj",
+        "projectUniqueName": "C:\\Users\\2023102020050\\Documents\\GitHub\\appweb\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj",
         "projectName": "CurriculoWeb",
-        "projectPath": "C:\\Users\\2023102020050\\source\\repos\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj",
+        "projectPath": "C:\\Users\\2023102020050\\Documents\\GitHub\\appweb\\CurriculoWeb\\CurriculoWeb\\CurriculoWeb.csproj",
         "packagesPath": "C:\\Users\\2023102020050\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2023102020050\\source\\repos\\CurriculoWeb\\CurriculoWeb\\obj\\",
+        "outputPath": "C:\\Users\\2023102020050\\Documents\\GitHub\\appweb\\CurriculoWeb\\CurriculoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
